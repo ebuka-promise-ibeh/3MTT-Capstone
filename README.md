@@ -36,7 +36,7 @@ Frontend: HTML, CSS, JavaScript
 
 Key Functionalities
 
-1. User Registration and Authentication:
+User Registration and Authentication:
 
 Implement secure user authentication using JSON Web Tokens (JWT) or session-based mechanisms.
 
@@ -44,7 +44,7 @@ Employ bcrypt for password hashing to ensure data security.
 
 
 
-2. Task Management Features:
+Task Management Features:
 
 Support task creation with attributes such as title, description, deadline, and priority levels (Low, Medium, High).
 
@@ -52,7 +52,7 @@ Enable users to update and delete tasks efficiently.
 
 
 
-3. Task Filtering and Search:
+Task Filtering and Search:
 
 Provide functionality to filter tasks based on priority or due date.
 
